@@ -2,8 +2,8 @@
 
 An [A-Frame](https://aframe.io) component for runtime Constructive Solid Geometry. It is based on [ThreeCSG](https://github.com/chandlerprall/ThreeCSG) which it contains as a source copy in a slightly modified version.
 
-<a href="https://sebastianbaltes.github.io/aframe-csg-meshs/examples">Click here to view demo
-
+<a href="https://sebastianbaltes.github.io/aframe-csg-meshs/examples/index.html">Click here to view demo
+ 
 <img src="https://sebastianbaltes.github.io/aframe-csg-meshs/examples/csg-meshs-example.jpg"></a>
 
 ## Properties
