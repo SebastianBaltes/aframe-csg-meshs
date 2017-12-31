@@ -1,6 +1,6 @@
 # aframe-csg-meshs
 
-An [A-Frame](https://aframe.io) component for runtime Constructive Solid Geometry. It is based on [ThreeCSG](https://github.com/chandlerprall/ThreeCSG) which it contains as a source copy in a slightly modified version.
+An [A-Frame](https://aframe.io) component for runtime Constructive Solid Geometry (boolean mesh operations). It is based on [ThreeCSG](https://github.com/chandlerprall/ThreeCSG) which it contains as a source copy in a slightly modified version.
 
 <a href="https://sebastianbaltes.github.io/aframe-csg-meshs/examples/index.html">Click here to view demo
  
