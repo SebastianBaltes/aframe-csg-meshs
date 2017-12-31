@@ -6,6 +6,13 @@ An [A-Frame](https://aframe.io) component for runtime Constructive Solid Geometr
  
 <img src="https://sebastianbaltes.github.io/aframe-csg-meshs/examples/csg-meshs-example.jpg"></a>
 
+## Example
+
+```html
+   <a-box csg-meshs="subtract: #sphere"></a-box>
+   <a-sphere id="sphere"></a-sphere>
+```
+
 ## Properties
 
 The component takes three optional properties:
