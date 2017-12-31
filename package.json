@@ -1,0 +1,30 @@
+{
+  "name": "aframe-csg-meshs",
+  "version": "1.0.0",
+  "description": "A component for A-Frame that allows runtime Constructive Solid Geometry.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SebastianBaltes/aframe-csg-meshs.git"
+  },
+  "keywords": [
+    "aframe",
+    "aframe-component",
+    "aframe-vr",
+    "vr",
+    "mozvr",
+    "webvr",
+    "csg"
+  ],
+  "author": "Sebastian Baltes <sebastian.l.baltes@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/SebastianBaltes/aframe-csg-meshs/blob/master/README.md",
+  "dependencies": {
+    "aframe": "^0.7.0"
+  },
+  "devDependencies": {
+  }
+}
